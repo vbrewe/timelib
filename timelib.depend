@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1545257284 source:d:\ifa82\timelib\main.c
+1551302897 source:c:\users\teilnehmer.pc29\desktop\timelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"day_of_the_year.h"
+
+1551296809 c:\users\teilnehmer.pc29\desktop\timelib\day_of_the_year.h
+
+1551302136 source:c:\users\teilnehmer.pc29\desktop\timelib\day_of_the_year.c
 	<stdio.h>
 	<stdlib.h>
 
